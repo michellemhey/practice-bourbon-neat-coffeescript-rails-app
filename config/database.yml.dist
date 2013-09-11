@@ -1,0 +1,19 @@
+development:
+  adapter: postgresql
+  database: practice_bourbon_neat_coffee_rails_development
+  username:
+  password:
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: practice_bourbon_neat_coffee_rails_test
+  username:
+  password:
+  host: localhost
+
+production:
+  adapter: postgresql
+  database: practice_bourbon_neat_coffee_rails_production
+  username:
+  password:
